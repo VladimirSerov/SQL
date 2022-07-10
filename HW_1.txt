@@ -1,0 +1,11 @@
+1. Получите описание таблицы REGIONS, используя её полное имя.
+   describe rigions; // describe hr.regions;
+
+2. Получите описание таблицы COUNTRIES, используя её полное имя.
+   describe countries; // desc hr.countries;
+
+3. Получите описание таблицы JOBS, используя её короткое имя.
+   desc jobs; // describe jobs;
+
+4. Получите описание таблицы LOCATIONS, используя её короткое имя.
+   desc locations;
